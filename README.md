@@ -1,16 +1,7 @@
-# myapp
+Flutter Web Layout
+Este é um projeto simples desenvolvido com Flutter para criar um layout responsivo para a web. O aplicativo apresenta um design minimalista e inclui uma funcionalidade básica de interação.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Funcionalidades
+Layout responsivo ajustável a diferentes tamanhos de tela.
+Gradiente de cores no banner.
+Botão funcional com um pop-up (dialog) interativo.
